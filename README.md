@@ -3,6 +3,8 @@
 -🔭 I’m currently working as **Associate Software Engineer**.
 
 ![Badge](https://img.shields.io/badge/Caffeine_in_Blood-85%25-blue?style=plastic)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/mdrakakis" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Follow @mdrakakis on GitHub">Follow @mdrakakis</a>
 
 #### Tools Love Using: 
 1) ![Visual_Studio](https://img.shields.io/badge/Visual%20Studio-Version:_2019-blue?style=plastic)
