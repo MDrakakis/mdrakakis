@@ -2,7 +2,6 @@
 
 -🔭 I’m currently working as **Associate Software Engineer**.
 
-![GitHub followers](https://img.shields.io/github/followers/mdrakakis?label=Follow%20me%20on%20GitHub&style=plastic)
 ![Badge](https://img.shields.io/badge/Caffeine_in_Blood-85%25-blue?style=plastic)
 
 #### Tools Love Using: 
