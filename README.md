@@ -1,6 +1,8 @@
 ## Hello World! 👋
 
--🔭 I’m currently working as **Associate Software Engineer**.
+-🔭 I’m currently working as **Associate Software Engineer** in Core Banking Project.
+</br>
+-💻 Technologies Used: **C#, C++, VB6, WPF-MVVM, SQL Server**.
 
 ![Badge](https://img.shields.io/badge/Caffeine_in_Blood-85%25-blue?style=plastic)
 
