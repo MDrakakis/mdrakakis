@@ -6,6 +6,17 @@
 
 ![Badge](https://img.shields.io/badge/Caffeine_in_Blood-85%25-blue?style=plastic)
 
+### Skills/Languages
+1) C#
+2) SQL Server
+3) HTML - CSS
+
+### Learning/Trying
+1) Javascript
+2) C++
+3) Angular
+4) React
+
 #### Tools I like to use:
 1) ![Visual_Studio](https://img.shields.io/badge/Visual%20Studio-Version:_2019-blue?style=plastic)
 2) ![Visual_Studio_Code](https://img.shields.io/badge/Visual%20Studio%20Code-Version:_Latest-blue?style=plastic)
