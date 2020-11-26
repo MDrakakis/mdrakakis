@@ -8,6 +8,6 @@
 3) ![SSMS](https://img.shields.io/badge/SSMS-Version:_18-blue?style=plastic)
 4) ![Windows_PowerShell_ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-Version:_Latest-blue?style=plastic)
 5) ![Google_Chrome](https://img.shields.io/badge/Google_Chrome-Version:_Latest-blue?style=plastic)
-6) ![Windows_Terminal](https://img.shields.io/badge/Windows_Terminal-Version:_1.0.1811.0-blue?style=plastic)
+6) ![Windows_Terminal](https://img.shields.io/badge/Windows_Terminal-Version:_Latest-blue?style=plastic)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mdrakakis&show_icons=true&theme=dark&hide=stars)
